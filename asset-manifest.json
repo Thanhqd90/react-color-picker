@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-color-picker/static/css/main.13046120.chunk.css",
+    "main.js": "/react-color-picker/static/js/main.02d9b312.chunk.js",
+    "main.js.map": "/react-color-picker/static/js/main.02d9b312.chunk.js.map",
+    "runtime~main.js": "/react-color-picker/static/js/runtime~main.a264689d.js",
+    "runtime~main.js.map": "/react-color-picker/static/js/runtime~main.a264689d.js.map",
+    "static/css/2.509658c0.chunk.css": "/react-color-picker/static/css/2.509658c0.chunk.css",
+    "static/js/2.ec97d6d8.chunk.js": "/react-color-picker/static/js/2.ec97d6d8.chunk.js",
+    "static/js/2.ec97d6d8.chunk.js.map": "/react-color-picker/static/js/2.ec97d6d8.chunk.js.map",
+    "index.html": "/react-color-picker/index.html",
+    "precache-manifest.2c5a46f371c1ae1c9404aa5de81391cf.js": "/react-color-picker/precache-manifest.2c5a46f371c1ae1c9404aa5de81391cf.js",
+    "service-worker.js": "/react-color-picker/service-worker.js",
+    "static/css/2.509658c0.chunk.css.map": "/react-color-picker/static/css/2.509658c0.chunk.css.map",
+    "static/css/main.13046120.chunk.css.map": "/react-color-picker/static/css/main.13046120.chunk.css.map"
+  }
+}
