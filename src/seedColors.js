@@ -1,5 +1,24 @@
 export default [
   {
+    paletteName: "Quorum Colors",
+    id: "quorum-colors",
+    emoji: "🎨",
+    colors: [
+      { name: "innovation blue", color: "#047bc1" },
+      { name: "electric blue", color: "#009de2" },
+      { name: "ocean blue", color: "#005b99" },
+      { name: "technology blue", color: "#000a8b" },
+      { name: "midnight blue", color: "#060a51" },
+      { name: "text", color: "#4a4a4a" },
+      { name: "background light", color: "#f9f9f9" },
+      { name: "background dark", color: "#eaebed" },
+      { name: "pipeline gray", color: "#c7ced3" },
+      { name: "steel gray", color: "#9ba2aa" },
+      { name: "shale gray", color: "#646a75" },
+      { name: "energy yellow", color: "#ff9800" }
+    ]
+  },
+  {
     paletteName: "Material UI Colors",
     id: "material-ui-colors",
     emoji: "🎨",
